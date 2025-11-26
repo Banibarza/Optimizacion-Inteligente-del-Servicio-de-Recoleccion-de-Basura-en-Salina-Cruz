@@ -1,1 +1,1 @@
-# Optimizaci-n-Inteligente-del-Servicio-de-Recolecci-n-de-Basura-en-Salina-Cruz-
+# Optimizacion-Inteligente-del-Servicio-de-Recoleccion-de-Basura-en-Salina-Cruz-
